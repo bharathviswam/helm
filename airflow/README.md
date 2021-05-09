@@ -5,7 +5,7 @@
 ## TL;DR
 
 ```console
-$ helm install my-release bitnami/airflow
+$ helm install airflow ./airflow
 ```
 
 ## Introduction
